@@ -21,7 +21,7 @@ function button() {
         email.innerHTML=d.value
         d.value=""
     }else{
-        alert("xana doldur")
+        alert("xanalarai  doldur")
     }
 
 }
